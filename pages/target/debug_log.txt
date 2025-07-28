@@ -1,0 +1,8 @@
+Array
+(
+    [action] => edit
+    [id] => 38
+    [kelas] => IPS
+    [kode] => 38
+    [nilai_target] => 3
+)
